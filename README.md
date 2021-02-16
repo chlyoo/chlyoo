@@ -2,7 +2,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchlyoo&count_bg=%232798D7&title_bg=%23555555&icon=&icon_color=%23B22626&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Blog Badge](https://img.shields.io/badge/-blog-brightgreen)](https://peterabbit.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyun-lyoo-43b630155/)](https://www.linkedin.com/in/changhyun-lyoo-43b630155/)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyun-lyoo-43b630155/)](https://www.linkedin.com/in/changhyun-lyoo-43b630155/)  
 </div>  
 
 - 🌱 I’m currently learning JAVA
