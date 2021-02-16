@@ -4,16 +4,22 @@
 [![Blog Badge](https://img.shields.io/badge/-blog-brightgreen)](https://peterabbit.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyun-lyoo-43b630155/)](https://www.linkedin.com/in/changhyun-lyoo-43b630155/)  
 </div>  
+Clazitive Developer
 
 - 🌱 I’m currently learning JAVA
+- 🤔 What is clazitive?  
+It is a compound word; creative + lazy. I define clazitive as "creative to be lazy".
+I use this word to express myself who is creative but lazy(seeks for comfort and effectivenes in everywhere)
+- Interests
+Automation, Business Analytics, Service Development, Usability Engineering
 
-### Major
+#### Major
 ICT Convergence & Management
 
-### Skills  
+#### Skills  
   Python, Java, HTML, CSS
 
-### Presentation and Publication
+#### Presentation and Publication
 
 - International Conference  
 · [Chang Hyun Lyoo, Jin Ho Jung, Chang Beom Choi and Eun Young Kim, “Modeling and Simulation of Municipal Solid Waste Management System Based on Discrete Event System Specification”, Symp. Simulation Architecture, Urban Design (SimAUD), May 2020.](https://youtu.be/m2APLDS3nlI)
