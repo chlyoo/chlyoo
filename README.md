@@ -7,6 +7,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyun-lyoo-43b630155/)](https://www.linkedin.com/in/changhyun-lyoo-43b630155/)  
 
 - 🌱 I’m currently learning JAVA
+
+### Skills  
+Python, Java, HTML, CSS
+
+
+### Presentation and Publication
+
+- International Conference  
+· [Chang Hyun Lyoo, Jin Ho Jung, Chang Beom Choi and Eun Young Kim, “Modeling and Simulation of Municipal Solid Waste Management System Based on Discrete Event System Specification”, Symp. Simulation Architecture, Urban Design (SimAUD), May 2020.](https://youtu.be/m2APLDS3nlI)
+- Domestic Journal  
+· [최창범, 정진호, 류창현, 김은영, “지역사회 내 쓰레기 문제 해결을 위한 이산사건시스템 형식론 기반 모델링 및 시뮬레이션 환경”, 한국시뮬레이션학회논문지, vol.29, no. 1, pp.71–79, March 2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09322242)
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
