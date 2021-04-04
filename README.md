@@ -4,20 +4,21 @@
 [![Blog Badge](https://img.shields.io/badge/-blog-brightgreen)](https://peterabbit.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyun-lyoo-43b630155/)](https://www.linkedin.com/in/changhyun-lyoo-43b630155/)  
 </div>  
-Clazitive Developer
-
+Clazitive Developer  
+[![Chlyoo's github stats](https://github-readme-stats.vercel.app/api?username=chlyoo&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark )](https://github.com/anuraghazra/github-readme-stats)
+[![Chlyoo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlyoo&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 - 🌱 I’m currently learning JAVA
 - 🤔 What is clazitive?  
 It is a compound word; creative + lazy. I define clazitive as "creative to be lazy".
 I use this word to express myself who is creative but lazy(seeks for comfort and effectivenes in everywhere)
 - Interests
-Automation, Business Analytics, Service Development, Usability Engineering
+Cloud, Automation, Business Analytics, Service Development, Usability Engineering
 
 #### Major
 ICT Convergence & Management
 
 #### Skills  
-  Python, Java, HTML, CSS
+  Python, Java, HTML, CSS, AWS
 
 #### Presentation and Publication
 
