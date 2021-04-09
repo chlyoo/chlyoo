@@ -4,7 +4,7 @@
 [![Blog Badge](https://img.shields.io/badge/-blog-brightgreen)](https://peterabbit.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyun-lyoo-43b630155/)](https://www.linkedin.com/in/changhyun-lyoo-43b630155/)  
 [![chlyoo's github stats](https://github-readme-stats.vercel.app/api?username=chlyoo&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark )](https://github.com/anuraghazra/github-readme-stats)
-[![chlyoo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlyoo&layout=compact&theme=vue-dark&hide=C,TCL&langs_count=8))](https://github.com/anuraghazra/github-readme-stats)
+[![chlyoo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlyoo&layout=compact&theme=vue-dark&hide=C,TCL,CSS&langs_count=8))](https://github.com/anuraghazra/github-readme-stats)
 </div>  
 Clazitive Developer  
 
@@ -21,7 +21,7 @@ Cloud, Automation, Business Analytics, Service Development, Usability Engineerin
 ICT Convergence & Management
 
 #### Skills  
-  Python, Java, HTML, CSS, AWS
+  Python, Java, AWS
 
 #### Presentation and Publication
 
