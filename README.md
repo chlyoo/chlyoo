@@ -10,7 +10,7 @@ Clazitive Developer
 
 
 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m a Cloud Architect
 - 🤔 What is clazitive?  
 It is a compound word; creative + lazy. I define clazitive as "creative to be lazy".
 I use this word to express myself who is creative but lazy(seeks for comfort and effectivenes in everywhere)
