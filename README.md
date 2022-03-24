@@ -10,7 +10,7 @@ Clazitive Developer
 
 
 
-- 🌱 I’m a Cloud Engineer
+- 🌱 I’m a Software Engineer
 - 🤔 What is clazitive?  
 It is a compound word; creative + lazy. I define clazitive as "creative to be lazy".
 I use this word to express myself who is creative but lazy(seeks for comfort and effectivenes in everywhere)
@@ -21,7 +21,7 @@ Cloud, DevOps, Automation, Business Analytics, Service Development, Usability En
 ICT Convergence & Management
 
 #### Skills  
-  Python, Java, AWS
+  Python, Java, AWS, K8s
 
 #### Presentation and Publication
 
